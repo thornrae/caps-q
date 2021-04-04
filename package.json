@@ -1,0 +1,24 @@
+{
+  "name": "caps-q",
+  "version": "1.0.0",
+  "description": "",
+  "main": "caps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thornrae/caps-q.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thornrae/caps-q/issues"
+  },
+  "homepage": "https://github.com/thornrae/caps-q#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "socket.io": "^2.4.1",
+    "socket.io-client": "^2.4.0"
+  }
+}
